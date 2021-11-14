@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jogodavelha/static/css/main.73cfcfef.chunk.css",
+    "main.js": "/jogodavelha/static/js/main.b324ab90.chunk.js",
+    "main.js.map": "/jogodavelha/static/js/main.b324ab90.chunk.js.map",
+    "runtime-main.js": "/jogodavelha/static/js/runtime-main.1054f175.js",
+    "runtime-main.js.map": "/jogodavelha/static/js/runtime-main.1054f175.js.map",
+    "static/js/2.f127d151.chunk.js": "/jogodavelha/static/js/2.f127d151.chunk.js",
+    "static/js/2.f127d151.chunk.js.map": "/jogodavelha/static/js/2.f127d151.chunk.js.map",
+    "index.html": "/jogodavelha/index.html",
+    "static/css/main.73cfcfef.chunk.css.map": "/jogodavelha/static/css/main.73cfcfef.chunk.css.map",
+    "static/js/2.f127d151.chunk.js.LICENSE.txt": "/jogodavelha/static/js/2.f127d151.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1054f175.js",
+    "static/js/2.f127d151.chunk.js",
+    "static/css/main.73cfcfef.chunk.css",
+    "static/js/main.b324ab90.chunk.js"
+  ]
+}
