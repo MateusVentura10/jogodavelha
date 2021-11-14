@@ -1,0 +1,94 @@
+body{
+    background:#202020;
+}
+
+.play{
+    max-width:600px;
+    margin:40px auto;
+}
+.play > div{
+    margin-top:40px;
+    display:flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+.play--title{
+    color:white;
+    text-align:center;
+    font-size:4rem;
+}
+.play--player{
+    margin-top:20px;
+    text-align:center;
+    position:relative;
+}
+.play--player > span{
+    display:block;
+    font-size:1.2rem;
+    font-weight:300;
+    margin-right:15px;
+    text-transform: uppercase;
+}
+.player--1{
+    color:#f47373;
+}
+.player--2{
+    color:#64b5f6;
+}
+.play--area{
+    margin:0 auto;
+    border-collapse: collapse
+}
+.play--area td {
+    width:100px;
+    height:100px;
+}
+.play--area input{
+    width:100%;
+    height:100%;
+    border:none;
+
+    font-size:4rem;
+    text-align:center;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.play--area input:focus{
+    outline:none;
+}
+.play--btnRestart-1, .play--btnRestart-2{
+    width:140px;
+    padding:10px 0px;
+    border:none;
+    font-size:1.5rem;
+    margin-top:15px;
+
+    display:block;
+
+    color:white;
+    font-weight:300;
+}
+.play--btnRestart-1:hover, .play--btnRestart-2:hover{
+    opacity:0.7;
+    transition:0.5s;
+    cursor:pointer;
+}
+.play--btnRestart-1{
+    background:#00d084;
+}
+.play--btnRestart-2{
+    background:#fbc02d;
+    pointer-events: none;
+}
+.winner{
+    opacity:0;
+    color:white;
+    font-size:1.5rem;
+    font-weight: 300;
+    background:#4db6ac;
+    border-radius:3px;
+    padding:8px 0px;
+    text-align:center;
+    width:300px;
+    margin-left:36.5%;
+}
